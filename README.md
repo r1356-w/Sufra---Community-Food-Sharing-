@@ -143,4 +143,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**Built with ❤️ for communities that care**
+**Built with Rand Oraij for communities that care**
